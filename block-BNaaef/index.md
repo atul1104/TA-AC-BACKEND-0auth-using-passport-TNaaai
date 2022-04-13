@@ -1,4 +1,4 @@
-writeCode
+writeCode.
 
 Implement `google` and `github` authentication in the blog application created at
 
